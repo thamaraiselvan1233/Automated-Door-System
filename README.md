@@ -1,5 +1,5 @@
- 
-### Internship Week-1 Task
+# Automated Door System
+ ### Internship Week-1 Task
 
 ---
 
@@ -65,6 +65,11 @@ This logic simulates the automatic opening and closing of the door.
 ## Output
 - Motion detected → LED ON → Door Open  
 - No motion → LED OFF → Door Close  
+
+---
+
+## 🔗 Wokwi Simulation Link
+▶ [Click here to view the Wokwi Simulation](https://wokwi.com/projects/new/arduino-uno)
 
 ---
 
