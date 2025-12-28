@@ -68,11 +68,6 @@ This logic simulates the automatic opening and closing of the door.
 
 ---
 
-## 🔗 Wokwi Simulation Link
-▶ [Click here to view the Wokwi Simulation](https://wokwi.com/projects/new/arduino-uno)
-
----
-
 ## Result
 The automated door system works correctly in simulation.  
 The project successfully demonstrates sensor interfacing, digital input/output control, and basic automation concepts.
